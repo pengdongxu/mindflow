@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": "transformer-evolution",
+      "title": "Transformer架构的演进之路",
+      "title_en": "The Evolution of Transformer Architecture",
+      "excerpt": "从原始Transformer到GPT、BERT,探索自注意力机制如何革新了自然语言处理领域...",
+      "excerpt_en": "From the original Transformer to GPT and BERT, exploring how self-attention mechanisms revolutionized natural language processing...",
+      "category": "deep-learning",
+      "date": "2026-01-15",
+      "readTime": 8,
+      "featured": true,
+      "tags": ["Transformer", "NLP", "Deep Learning", "Attention Mechanism"],
+      "file": "posts/transformer-evolution.md"
+    },
+    {
+      "id": "llm-finetuning",
+      "title": "大模型微调的最佳实践",
+      "title_en": "Best Practices for LLM Fine-tuning",
+      "excerpt": "分享在实际项目中微调大型语言模型的技巧,包括数据准备、参数高效微调方法和评估策略...",
+      "excerpt_en": "Sharing tips for fine-tuning large language models in real projects, including data preparation, parameter-efficient methods, and evaluation strategies...",
+      "category": "practice",
+      "date": "2026-01-10",
+      "readTime": 12,
+      "featured": true,
+      "tags": ["LLM", "Fine-tuning", "PEFT", "LoRA"],
+      "file": "posts/llm-finetuning.md"
+    },
+    {
+      "id": "ai-agent-design",
+      "title": "AI Agent的设计模式",
+      "title_en": "Design Patterns for AI Agents",
+      "excerpt": "解析智能代理系统的核心组件,探讨规划、记忆、工具使用等关键能力的实现方式...",
+      "excerpt_en": "Analyzing core components of intelligent agent systems, discussing implementation of key capabilities like planning, memory, and tool use...",
+      "category": "insight",
+      "date": "2026-01-05",
+      "readTime": 10,
+      "featured": false,
+      "tags": ["AI Agent", "LangChain", "ReAct", "Planning"],
+      "file": "posts/ai-agent-design.md"
+    },
+    {
+      "id": "tech-humanity",
+      "title": "技术与人文的交汇",
+      "title_en": "The Intersection of Technology and Humanity",
+      "excerpt": "在追求技术卓越的同时,思考AI如何更好地服务人类,创造更有温度的智能体验...",
+      "excerpt_en": "While pursuing technical excellence, reflecting on how AI can better serve humanity and create more empathetic intelligent experiences...",
+      "category": "thoughts",
+      "date": "2025-12-28",
+      "readTime": 6,
+      "featured": false,
+      "tags": ["AI Ethics", "Philosophy", "Human-AI Interaction"],
+      "file": "posts/tech-humanity.md"
+    }
+  ],
+  "categories": {
+    "deep-learning": {
+      "name": "深度学习",
+      "name_en": "Deep Learning",
+      "icon": "🧠"
+    },
+    "practice": {
+      "name": "实践经验",
+      "name_en": "Practice",
+      "icon": "💡"
+    },
+    "insight": {
+      "name": "技术洞察",
+      "name_en": "Technical Insights",
+      "icon": "🔍"
+    },
+    "thoughts": {
+      "name": "日常思考",
+      "name_en": "Thoughts",
+      "icon": "💭"
+    }
+  }
+}
