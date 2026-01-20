@@ -1,8 +1,4 @@
 ---
-## 示例文章 2：生活随笔
-**文件名**：`posts/life/2025-12-28-tech-and-humanity.md`
-```markdown
----
 title: 技术与人文的交汇
 title_en: The Intersection of Technology and Humanity
 date: 2025-12-28
